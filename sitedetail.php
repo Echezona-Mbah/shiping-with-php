@@ -1,0 +1,10 @@
+<?php $siteName = 'SPRINT EXPRESS DELIVERY SERVICES'; ?>
+<?php $domain = 'Sprintxpressdelivery.com'; ?>
+<?php $siteAddress_1 = '2119 Grim Avenue San Diego, CA 92103 '; ?>
+<?php $siteAddress_2 = ''; ?>
+<?php $phone_0 = ''; ?>
+<?php $phone_1 = ''; ?>
+<?php $phone_2 = ''; ?>
+<?php $siteEmail = 'SprintXpressdeliveryIMF@hotmail.com'; ?>
+<?php $email_1 = 'support@' . $domain; ?>
+<?php $email_2 = 'info@' . $domain; ?>
